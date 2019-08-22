@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">筛选框</string>
+    <string name="clear">清空</string>
+    <string name="confirm">确定</string>
+
+</resources>

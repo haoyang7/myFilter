@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Filters</string>
+    <string name="clear">Clear</string>
+    <string name="confirm">Confirm</string>
 </resources>
